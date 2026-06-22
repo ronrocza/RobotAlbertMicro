@@ -8,7 +8,7 @@ with simple text commands.
 
 | Assembled robot | 3D-printed parts |
 |---|---|
-| ![Assembled AlbertMicro robot](Screenshot%202026-06-22%20alle%2011.59.55.png) | ![3D printable body parts](Screenshot%202026-06-22%20alle%2011.59.39.png) |
+| ![Assembled AlbertMicro robot](robot-assembled.png) | ![3D printable body parts](printed-parts.png) |
 
 ---
 
